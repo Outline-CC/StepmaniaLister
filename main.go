@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-var FolderPadre = "E:/Games/Stepmania 5/Songs/K POP"
+var FolderPadre = "path/to/directory"
 var ListaCanciones []string
 type PackageDetails struct {
 	Nombre string
